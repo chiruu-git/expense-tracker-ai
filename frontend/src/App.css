@@ -205,3 +205,22 @@ body {
     margin-right: 8px;
     border: 1px solid rgba(255,255,255,0.2); /* Subtle border */
 }
+/* Add these new styles to the end of frontend/src/App.css */
+
+.table tbody td {
+    font-size: 1rem; /* Increase data font size in the table */
+    font-weight: 400; /* Makes the text slightly bolder and easier to read */
+    vertical-align: middle; /* Ensures icons and text are perfectly aligned */
+}
+
+/* Optional: Make category badges slightly larger to match */
+.badge {
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: 0.4em 0.7em;
+}
+/* Add this to the end of frontend/src/App.css */
+
+.form-control, .form-select, .btn-gradient {
+    font-size: 1rem; /* Sets a consistent font size (usually 16px) */
+}
