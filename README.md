@@ -200,7 +200,7 @@ This project is intended to be available under the **MIT License**. Ensure that 
 Information Science & Engineering Student
 
 - **Email:** br.chirag11@gmail.com
-- **LinkedIn:** [linkedin.com/in/chiru69](<https://linkedin.com/in/chiru69>)
+- **LinkedIn:** [linkedin.com/in/chiru11](<https://linkedin.com/in/chiru11>)
 - **GitHub Repository:** expense-tracker-ai
 
 ---
